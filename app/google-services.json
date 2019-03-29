@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158554696238",
+    "firebase_url": "https://filmfinder-5751d.firebaseio.com",
+    "project_id": "filmfinder-5751d",
+    "storage_bucket": "filmfinder-5751d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158554696238:android:3e427f0034351f75",
+        "android_client_info": {
+          "package_name": "com.example.student.filmfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158554696238-fk98ffjluslpnksb5itqevesj407u3hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.filmfinder",
+            "certificate_hash": "d7b0ddf4c34ac5cd651920b8522313d7a7952c09"
+          }
+        },
+        {
+          "client_id": "158554696238-7plndruifgk9njmb0cs9rtpk0uqqbf27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZf3v-HxaFQ0GufS-a79vNwUEIWQ3TQ50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158554696238-7plndruifgk9njmb0cs9rtpk0uqqbf27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
